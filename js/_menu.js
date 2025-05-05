@@ -1,3 +1,4 @@
-createMenu('Statistics Assignment', [
-  { name: 'Overview', script: 'overview.js' }
+createMenu('Student Depression', [
+  { name: 'Overview', script: 'overview.js' },
+  //{ name: 'original data', script: 'rawdata.js' },
 ]);
